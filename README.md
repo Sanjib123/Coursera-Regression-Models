@@ -3,6 +3,6 @@ Coursera-Regression-Models
 
 Programming Assignments of Coursera.com online course: Regression Models  
 
-This is a four-week course. Jan 5th - Feb 2nd, 2015.
+This is a four-week course.
 
-© Xiaodan Zhang 2015 All Rights reserved.
+© Sanjib Pradhan 2016 All Rights reserved.
